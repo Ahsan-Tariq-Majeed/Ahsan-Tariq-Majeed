@@ -1,18 +1,12 @@
 ### Hi there 👋
-<li>
-  <ol> 🌱 I’m currently learning ... React.js <ol/>
-    <ol>  💬 Ask me about ... Front-end <ol/>
-      <ol> - 📫 How to reach me: ... Instagram ol/>
-<li/>
 
-<center>- 🔭 I’m currently working on ... Myself 
-- 
-- 🤔 I’m looking for help with ... Front-end development
--
-
-- 😄 Pronouns: ... SN 
-- ⚡ Fun fact: ... I sleep like alpine swift <center/>
-
+🌱 I’m currently learning ... React.js 
+💬 Ask me about ... Front-end 
+📫 How to reach me: ... Instagram
+🤔 I’m looking for help with ... Front-end development
+😄 Pronouns: ... SN 
+🔭 I’m currently working on ... Myself 
+⚡ Fun fact: ... I sleep like alpine swift <center/>
 
 --------------->>>>
 
